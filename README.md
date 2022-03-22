@@ -2,7 +2,7 @@
 
 **Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program.
 
-Submitted by: **Amantina**
+Submitted by: **Amantina Rossi**
 
 Time spent: **4** hours spent in total
 
@@ -41,6 +41,7 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 ![](https://cdn.glitch.global/4dde33fe-7b11-4279-9e6b-e18f3741b8ad/ezgif.com-gif-maker.gif?v=1647390210877)
+Above GIF features full game play with win at end and speeding up between rounds, variation in pattern with each new start of game, and what happens when user presses wrong button and loses game. 
 ![](gif2-link-here)
 ![](gif3-link-here)
 ![](gif4-link-here)
