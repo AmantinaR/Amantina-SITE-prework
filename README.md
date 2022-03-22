@@ -67,7 +67,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://stanford.zoom.us/rec/share/t7U9XdpDe6IqkA3ONbGpZuMb4RKNscibdP5auNKvVoJxFbEa-L0yevZ1lDQ-ogM.HJEj7LvpWaJI7M0r)
 
 ## License
 
